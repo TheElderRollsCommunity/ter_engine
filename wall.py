@@ -1,5 +1,5 @@
 import pygame as pg
-from dopc import *
+from constants import *
 
 
 class Wall(pg.sprite.Sprite):

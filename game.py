@@ -3,7 +3,7 @@ import pygame as pg
 import sys
 
 # Engine imports
-from dopc import *
+from constants import *
 from player import Player
 from wall import Wall
 
